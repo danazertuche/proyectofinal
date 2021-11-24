@@ -321,8 +321,6 @@ int main()
  
                info_cliente << nombre << endl;
                info_cliente << direccion << endl;
-               //info_cliente << producto << endl;
-               //falta poner que se guarden los datos de los productos que quiere
  
                info_cliente.close();
                cout << "Su información ha sido guardada correctamente"<< endl;

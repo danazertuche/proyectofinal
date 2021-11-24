@@ -1,0 +1,8 @@
+AnilloDimante 3000 18
+AnilloOroRosa 4800 12
+AnilloPlata 2700 18
+CollarDije 1250 19
+CollarPlateado 1300 15
+AretesPeqPlata 8000 13
+AretesHoldPlata 3600 17
+AretesCamelliePlata 5200 11
